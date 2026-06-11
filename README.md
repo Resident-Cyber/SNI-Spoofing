@@ -1,5 +1,4 @@
 # SNI-Spoofing
-Bypass DPI with IP/TCP-Header manipulation
 
 حمایت کنید کارهای بزرگی در دست انجام هست:
 
